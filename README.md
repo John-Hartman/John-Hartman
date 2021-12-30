@@ -1,5 +1,5 @@
 - 🍻 I’m @John-Hartman
-- 🌱 Currently learning Python and PowerShell to try and automote processes through our tools APIs
+- 🌱 Not an expert in anything, but certainly a tinkerer. This repository holds some useful scripts I've created for daily activities.
 - 📫 You can reach me at john.michael.hartman@gmail.com
 
 <!---
